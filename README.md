@@ -5,6 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+# My React Application
+
+This is a sample React application created for demonstration purposes.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+
+2. Install dependencies: npm install
 
 ### `npm start`
 
